@@ -1,0 +1,18 @@
+body {
+  background-color: #111111;
+}
+
+.title {
+  text-transform: uppercase;
+  color: #f4f4f4f4;
+}
+
+#root {
+  text-align: center;
+  padding: 3rem;
+}
+
+#root canvas {
+  display: block;
+  margin: 0 auto;
+}
